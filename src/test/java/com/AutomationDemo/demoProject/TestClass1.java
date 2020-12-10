@@ -43,7 +43,9 @@ public class TestClass1 {
 	    caps.setCapability("os_version", "10");
 	    caps.setCapability("browser", "Chrome");
 	    caps.setCapability("browser_version", "87.0");    
-	   // caps.setCapability("name", "ginameyer1's First Test");    
+	    caps.setCapability("project", "AutomationTalksProject");
+	    caps.setCapability("build", "MyBuild1.0");
+	    caps.setCapability("name", "MyTestCaseName");    
 	 
 	    
 	    
