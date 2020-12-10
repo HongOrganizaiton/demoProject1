@@ -1,0 +1,7 @@
+organization=hongorganizaiton
+projectKey=HongOrganization_demoProject1
+serverUrl=https://sonarcloud.io
+serverVersion=8.5.0.37579
+dashboardUrl=https://sonarcloud.io/dashboard?id=HongOrganization_demoProject1
+ceTaskId=AXY_YZ69DSMfI7ifM59c
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXY_YZ69DSMfI7ifM59c
